@@ -1,5 +1,5 @@
 <template>
-  <div class="py-3">
+  <div class="py-5">
     <div class="row mt-3">
       <div class="col-md-6">
         <slot name="hero-left"></slot>
